@@ -1,4 +1,2 @@
 #!/bin/bash
-cd ..
-cd alx-system_engineering-devops/0x01-shell_permissions
-cd /root
+chown --from=guillaume betty hello
